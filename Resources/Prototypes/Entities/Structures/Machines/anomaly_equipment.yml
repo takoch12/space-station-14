@@ -37,6 +37,7 @@
     color: "#fca3c0"
   - type: Appearance
   - type: WiresPanel
+  - type: WiresVisuals
   - type: AmbientSound
     enabled: false
     range: 3

@@ -90,7 +90,6 @@
         enum.WiresUiKey.Key:
           type: WiresBoundUserInterface
   - type: WiresPanel
-  - type: WiresVisuals
   - type: Wires
     boardName: wires-board-name-holopad
     layoutId: Holopad

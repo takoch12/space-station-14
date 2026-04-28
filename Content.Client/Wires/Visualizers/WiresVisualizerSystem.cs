@@ -16,6 +16,7 @@ namespace Content.Client.Wires.Visualizers
                 panelStateObject is bool panelState)
             {
                 SpriteSystem.LayerSetVisible((uid, args.Sprite), layer, panelState);
+                Logger.Info("Triggered Wires Visualizer System");
             }
             else
             {
